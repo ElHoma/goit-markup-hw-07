@@ -91,7 +91,7 @@ img {
 }
 
 /* mobile */
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   .hero {
     padding-top: 112px;
     padding-bottom: 112px;
@@ -156,7 +156,7 @@ img {
 }
 
 /* mobile */
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   .features {
     padding-top: 96px;
     padding-bottom: 96px;
@@ -361,7 +361,7 @@ img {
 
 /* mobile */
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   .team-person {
     margin-left: auto;
     margin-right: auto;
@@ -450,7 +450,7 @@ img {
 
 /* mobile */
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   .customers {
     display: flex;
     justify-content: center;
@@ -614,7 +614,7 @@ img {
 }
 
 /* mobile */
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   .footer {
     padding-top: 96px;
     padding-bottom: 96px;
